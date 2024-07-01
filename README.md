@@ -1,14 +1,9 @@
 # 🚗 Abnormal_Driver_Detection
 SW전문인재양성과정 4기 최종 프로젝트
-  
-
-대회 : **월간 데이콘 항공편 지연 예측 AI 경진대회**     
-Link : [https://dacon.io/competitions/official/236094/overview/description](https://dacon.io/competitions/official/236094/overview/description) 
-<br/>
 ## 🙌 Team Info
 ### ✨ SW전문인재양성 4기 가디언즈 ✨    
-|이름|work|                    
-|:---:|:---:|                                   
+|이름|역할|work|                    
+|:---:|:---:|:---:|                                   
 |<span style="color:blue">이선오|리더|YOLOv5/8/9 개발, stramlit 웹앱 개발, 어플 영상 제작, 보고서 작성|   
 |<span style="color:blue">강미수|팀원|YOLOv7 개발, 크롤링 및 워드클라우드 제작, PPT 제작, 포스터 제작|   
 |<span style="color:blue">박예린|팀원|기획서 작성, YOLOv7 개발, PPT 기획 및 제작, 발표|       
